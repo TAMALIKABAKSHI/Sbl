@@ -783,3 +783,4 @@
         </div>
     </div>
 </section>-->
+@include('templates.footer')
